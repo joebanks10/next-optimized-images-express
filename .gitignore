@@ -1,0 +1,8 @@
+.DS_Store
+.next
+.vscode
+*.log
+bundles
+node_modules
+coverage
+tests_output
